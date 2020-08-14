@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello, friend!  
+  
+  
+I am a web developer who loves to learn. Currently, you can find me working on:
+- JS Game Development
+- Unity Game Development
+- React Development
+- Streaming on Twitch
 
-<!--
-**JDTalley/JDTalley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Me  
+Twitter: [@JDTalley](https://twitter.com/jdtalley16)  
+Twitch: [NL_Dakota](https://www.twitch.tv/nl_dakota)  
+Website: [jdtalley.com](https://jdtalley.com)
